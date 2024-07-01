@@ -1,4 +1,4 @@
-package Factory;
+package Factory.DatabaseFactory;
 
 public class MongoQuery implements IQuery {
 

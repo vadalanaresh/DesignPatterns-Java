@@ -1,4 +1,4 @@
-package Factory;
+package Factory.DatabaseFactory;
 
 public class MySqlQuery implements IQuery {
     @Override

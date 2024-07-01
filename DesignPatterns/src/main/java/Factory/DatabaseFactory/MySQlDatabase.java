@@ -1,4 +1,4 @@
-package Factory;
+package Factory.DatabaseFactory;
 
 public class MySQlDatabase implements IDatabase {
     public void refresh(){

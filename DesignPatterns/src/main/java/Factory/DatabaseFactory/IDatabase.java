@@ -1,4 +1,4 @@
-package Factory;
+package Factory.DatabaseFactory;
 
 public interface IDatabase {
     IQuery createDatabaseQuery();
